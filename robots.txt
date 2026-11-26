@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dombosco-vilamatilde.vercel.app/sitemap.xml
