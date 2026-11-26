@@ -5,7 +5,7 @@ var DB = require("./marca.js"), C = DB.C;
 var ROOT = path.join(__dirname, "..");
 
 // ---------- Configuração ----------
-var SITE = "https://dombosco-vilamatilde.vercel.app/";
+var SITE = "https://dombosco-eta.vercel.app/";
 var OG_VER = 1;
 var PREVIEW = true; // prévia: noindex até a escola aprovar e o domínio próprio entrar
 var PHONE = "(11) 4327-7727", PHONE_TEL = "+551143277727";
